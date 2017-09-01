@@ -1,0 +1,9 @@
+{
+    "users": [
+        {
+            "xmattersID": "1111-2222-3333-4444",
+            "xMattersGroupID": "5555-6666-7777-8888",
+            "slackName": "@test.user"
+        }
+    ]
+}
